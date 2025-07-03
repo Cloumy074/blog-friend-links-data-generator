@@ -1,0 +1,26 @@
+export const linksData = [
+  {
+    entries: [],
+    group: "ta",
+    groupDesc: "Special place for special person.",
+    groupName: "Partner (Pinned)"
+  },
+  {
+    entries: [],
+    group: "github-friends",
+    groupDesc: "Friends from GitHub, welcome to communicate.",
+    groupName: "GitHub"
+  },
+  {
+    entries: [],
+    group: "frequently-visited",
+    groupDesc: "Very useful websites worth bookmarking.",
+    groupName: "Frequently Visited"
+  },
+  {
+    entries: [],
+    group: "developers",
+    groupDesc: "Awesome developers worth following.",
+    groupName: "Developers"
+  }
+];
